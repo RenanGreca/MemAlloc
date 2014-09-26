@@ -20,4 +20,4 @@ Then, run the project with
 ./alocador
 ```
 
-When running, the program allocates and deallocates areas of memory randomly. The map displayed in the output shows that: allocated areas are represented by *, while dealocated (freed) areas are represented by -.
+When running, the program allocates and deallocates areas of memory randomly. The map displayed in the output shows that: allocated areas are represented by ```*```, while dealocated (freed) areas are represented by ```-```.
